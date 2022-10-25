@@ -1,7 +1,7 @@
 # nazia
 ![MasterHead](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/12/freelance-web-developer.webp)
 <h1 align="center">Hi 👋, I'm Nazia Parween</h1>
-<h3 align="center">Frontend developer,Coder</h3>
+<h3 align="center">Developer,Coder</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazia3310&label=Profile%20views&color=0e75b6&style=flat" alt="nazia3310" /> </p>
